@@ -9,13 +9,7 @@ a program to find out an optimal route from RGIA airport to BITS Hyderabad other
 >a.create a virtual environment and install osmnx in it using conda:-
 >
 
->execute within the directory :
->
-
->`  python -m venv ./AI_ShortestRoute_Gmaps_Astar `
->
-
->b.install dependencies :-
+>b. after setting up env install dependencies using :-
 >
 
 >` pip install -r requirements.txt ` 
