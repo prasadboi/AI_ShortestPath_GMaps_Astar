@@ -6,7 +6,7 @@ a program to find out an optimal route from RGIA airport to BITS Hyderabad other
 >Instructions 
 >
 
->a.create a virtual environment:-
+>a.create a virtual environment and install osmnx in it using conda:-
 >
 
 >execute within the directory :
